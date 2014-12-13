@@ -14,9 +14,8 @@
   <p>
     <strong>Commenter:</strong>
     <%= comment.commenter %>
-  </p>
- 
-  <p>
+  </p> 
+  <p>
     <strong>Comment:</strong>
     <%= comment.body %>
   </p>
